@@ -18,6 +18,16 @@ My name is Artem, i'm a Junior C Developer (or system programmer).
 
 Currently i'm working on C projects(led, counter, ..., see my github projects), in future i've have been going to learn Rust, C#.
 
+<p>
+  <table="right">
+  <tr>
+      <td><img width="515px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulkiedo17&hide=html&layout=compact&hide_border=false&border_radius=0&theme=dark&icon_color=5194f0&bg_color=0d1117" />
+      <img width="515px" align="right" src="https://github-readme-stats.vercel.app/api?username=hulkiedo17&hide_border=false&border_radius=0&count_private=false&layout=compact&hide_title=false&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" />
+      </td>
+  </tr>
+</table>
+</p>
+
 ### About me
 - I'm a 18 y/o guy from Russia, living in Vladivostok.
 - Currently i am not working.
@@ -31,3 +41,4 @@ Currently i'm working on C projects(led, counter, ..., see my github projects), 
 | Shell (Bash) | 5 / 10 | 
 | Asm (Gas, Nasm) | 5 / 10 |
 | C++ (C++11) | 4 / 10 |
+
