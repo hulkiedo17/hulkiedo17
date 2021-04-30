@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi, I'm a Hulkiedo:
 My name is Artem, i'm a C Developer (or system programmer).
 
-Currently i'm working on C projects(led, counter, ..., see my github projects), in future i've have been going to learn Go, PHP, Rust, and maybe C#.
+Currently i'm working on C projects, in future i've have been going to learn C++, Go, Rust.
 
 <p>
   <table="right">
