@@ -1,8 +1,6 @@
 # Hi, I'm a Hulkiedo:
 My name is Artem, i'm a C Developer (or system programmer).
 
-Currently i'm working on C projects, in future i've have been going to learn D, Rust, Go, C++.
-
 <p>
   <table="right">
   <tr>
@@ -26,4 +24,3 @@ Currently i'm working on C projects, in future i've have been going to learn D, 
 | Shell (Bash) | 5 / 10 | 
 | Asm (Gas, Nasm) | 5 / 10 |
 | C++ (C++11) | 4 / 10 |
-| Dlang (D) | 1 / 10 |
