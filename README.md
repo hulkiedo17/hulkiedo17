@@ -1,6 +1,12 @@
 # Hi, I'm a Hulkiedo:
 My name is Artem, i'm a C Developer (or system programmer).
 
+### Links
+
+- [asciinema](https://asciinema.org/~Hulkiedo)
+- [reddit](https://www.reddit.com/user/Zmishenko)
+- [habr](https://habr.com/ru/users/artem_mironov/)
+
 <p>
   <table="right">
   <tr>
