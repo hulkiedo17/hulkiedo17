@@ -6,6 +6,7 @@ My name is Artem, i'm a C Developer (or system programmer).
 - [asciinema](https://asciinema.org/~Hulkiedo)
 - [reddit](https://www.reddit.com/user/Zmishenko)
 - [habr](https://habr.com/ru/users/artem_mironov/)
+- [gists](https://gist.github.com/hulkiedo17)
 
 <p>
   <table="right">
