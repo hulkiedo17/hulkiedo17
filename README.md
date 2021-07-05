@@ -1,13 +1,6 @@
 # Hi, I'm a Hulkiedo:
 My name is Artem, i'm a C Developer (or system programmer).
 
-### Links
-
-- [asciinema](https://asciinema.org/~Hulkiedo)
-- [reddit](https://www.reddit.com/user/Zmishenko)
-- [habr](https://habr.com/ru/users/artem_mironov/)
-- [gists](https://gist.github.com/hulkiedo17)
-
 <p>
   <table="right">
   <tr>
@@ -18,16 +11,14 @@ My name is Artem, i'm a C Developer (or system programmer).
 </table>
 </p>
 
+### Links
+
+- [asciinema](https://asciinema.org/~Hulkiedo)
+- [reddit](https://www.reddit.com/user/Zmishenko)
+- [habr](https://habr.com/ru/users/artem_mironov/)
+- [gists](https://gist.github.com/hulkiedo17)
+
 ### About me
 - I'm a 18 y/o guy from Russia, living in Vladivostok.
 - Currently i am not working.
 - I'm mainly focusing on system programming (unix-like systems and so on)
-
-### Level of my knowledge
-
-| Language | Level |
-| ----- | ----- |
-| C (C99, C11) | 8-9 / 10 |
-| Shell (Bash) | 5 / 10 | 
-| Asm (Gas, Nasm) | 5 / 10 |
-| C++ (C++11) | 4 / 10 |
