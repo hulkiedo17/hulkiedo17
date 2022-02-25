@@ -1,6 +1,11 @@
 # Hi, I'm a Hulkiedo:
 My name is Artem, i'm a C Developer (or system programmer).
 
+## Study
+Right now i'm studying C++, C, SQL
+
+In future, i'm planning to learn backend(networking, servers, etc...)
+
 <p>
   <table="right">
   <tr>
