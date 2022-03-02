@@ -1,5 +1,5 @@
 # Hi, I'm a Hulkiedo:
-My name is Artem, i'm a C Developer (or system programmer). Right now i'm studying C++, C, Go
+My name is Artem, i'm a C Developer (or system programmer). Right now i'm studying C++, C
 
 In future, i'm planning to learn backend(networking, servers, etc...)
 
@@ -21,6 +21,6 @@ In future, i'm planning to learn backend(networking, servers, etc...)
 - [gists](https://gist.github.com/hulkiedo17)
 
 ### About me
-- I'm a 18 y/o guy from Russia, living in Vladivostok.
+- I'm a 19 y/o guy from Russia, living in Vladivostok.
 - Currently i am not working.
 - I'm mainly focusing on system programming (unix-like systems and so on)
