@@ -10,7 +10,6 @@ In future, i'm planning to learn backend(networking, servers, etc...)
       <img width="485px" align="right" src="https://github-readme-stats.vercel.app/api?username=hulkiedo17&hide_border=true&border_radius=0&count_private=false&layout=compact&hide_title=false&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" />
       </td>
   </tr>
-</table>
 </p>
 
 ### Links
@@ -24,3 +23,17 @@ In future, i'm planning to learn backend(networking, servers, etc...)
 - I'm a 19 y/o guy from Russia, living in Vladivostok.
 - Currently i am not working.
 - I'm mainly focusing on system programming (unix-like systems and so on)
+- Current work project: libconf
+- My goal: 10 projects, and contribute to 5 projects
+
+### My projects
+
+<a href="https://github.com/hulkiedo17/led">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=led&theme=github_dark" />
+</a>
+<a href="https://github.com/hulkiedo17/counter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=counter&theme=github_dark" />
+</a>
+<a href="https://github.com/hulkiedo17/libconf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=libconf&theme=github_dark" />
+</a>
