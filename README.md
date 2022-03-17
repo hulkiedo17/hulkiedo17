@@ -1,5 +1,5 @@
 # Hi, I'm a Hulkiedo:
-My name is Artem, i'm a C Developer (or system programmer). Right now i'm studying C++, C
+My name is Artem, i'm a C Developer (or system programmer). Right now i'm studying D, C, C++
 
 In future, i'm planning to learn backend(networking, servers, etc...)
 
