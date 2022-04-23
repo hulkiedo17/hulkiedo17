@@ -18,13 +18,12 @@ In future, i'm planning to learn backend(networking, servers, etc...)
 - [reddit](https://www.reddit.com/user/Zmishenko)
 - [habr](https://habr.com/ru/users/artem_mironov/)
 - [gists](https://gist.github.com/hulkiedo17)
+- [second github](https://github.com/hulkiedo19)
 
 ### About me
 - I'm a 19 y/o guy from Russia, living in Vladivostok.
-- Currently i am not working.
 - I'm mainly focusing on system programming (unix-like systems and so on)
 - Current work project: libconf
-- My goal: 10 projects, and contribute to 5 projects
 
 ### My projects
 
