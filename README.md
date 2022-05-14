@@ -19,6 +19,7 @@ In future, i'm planning to learn backend(networking, servers, etc...)
 - [habr](https://habr.com/ru/users/artem_mironov/)
 - [gists](https://gist.github.com/hulkiedo17)
 - [second github](https://github.com/hulkiedo19)
+- [gitflic](https://gitflic.ru/user/molenay)
 
 ### About me
 - I'm a 19 y/o guy from Russia, living in Vladivostok.
