@@ -31,9 +31,9 @@ In future, i'm planning to learn backend(networking, servers, etc...)
 <a href="https://github.com/hulkiedo17/led">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=led&theme=github_dark" />
 </a>
-<a href="https://github.com/hulkiedo17/counter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=counter&theme=github_dark" />
-</a>
 <a href="https://github.com/hulkiedo17/libconf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=libconf&theme=github_dark" />
+</a>
+<a href="https://github.com/hulkiedo17/counter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=counter&theme=github_dark" />
 </a>
