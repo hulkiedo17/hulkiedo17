@@ -24,7 +24,7 @@ In future, i'm planning to learn linux kernel development.
 ### About me
 - I'm a 19 y/o guy from Russia, living in Vladivostok.
 - I'm mainly focusing on system programming (unix-like systems and so on)
-- Current work project: libconf
+- Current work project: none (thinking about new project)
 
 ### My projects
 
