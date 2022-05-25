@@ -1,7 +1,7 @@
 # Hi, I'm a Hulkiedo:
-My name is Artem, i'm a C Developer (or system programmer). Right now i'm studying C++
+My name is Artem, i'm a C Developer (System programmer).
 
-In future, i'm planning to learn backend(networking, servers, etc...)
+In future, i'm planning to learn linux kernel development.
 
 <p>
   <table="right">
