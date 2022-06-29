@@ -1,7 +1,7 @@
 # Hi, I'm a Hulkiedo:
 My name is Artem, i'm a C Developer (System programmer).
 
-In future, i'm planning to learn linux kernel development.
+In future, i'm planning to learn linux kernel internals, and then linux kernel development.
 
 <p>
   <table="right">
@@ -24,7 +24,8 @@ In future, i'm planning to learn linux kernel development.
 ### About me
 - I'm a 19 y/o guy from Russia, living in Vladivostok.
 - I'm mainly focusing on system programming (unix-like systems and so on)
-- Current work project: none (thinking about new project)
+- Btw i use Arch :)
+- Current work project: all old projects (refactoring in progress)
 
 ### My projects
 
