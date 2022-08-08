@@ -41,3 +41,7 @@ In future, i'm planning to learn linux kernel internals, and then linux kernel d
 <a href="https://github.com/hulkiedo17/logc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=logc&theme=github_dark" />
 </a>
+<a href="https://github.com/hulkiedo17/editor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=editor&theme=github_dark" />
+</a>
+
