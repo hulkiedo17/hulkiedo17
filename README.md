@@ -47,4 +47,4 @@ In future, i'm planning to learn linux kernel internals, and then linux kernel d
 
 ### My activity
 
-[![Hulkiedo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hulkiedo)](https://github.com/anuraghazra/github-readme-stats)
+[![Hulkiedo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hulkiedo)](https://wakatime.com/@Hulkiedo)
