@@ -45,3 +45,6 @@ In future, i'm planning to learn linux kernel internals, and then linux kernel d
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=editor&theme=github_dark" />
 </a>
 
+### My activity
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hulkiedo)](https://github.com/anuraghazra/github-readme-stats)
