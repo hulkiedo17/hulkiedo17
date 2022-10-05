@@ -28,38 +28,29 @@ In future, i'm planning to learn linux kernel internals and rust language.
 - [second github](https://github.com/hulkiedo19)
 - [gitflic](https://gitflic.ru/user/molenay)
 
-### My projects and stats
+### My Wakatime stats
 
-<p>
-  <table="right">
-  <tr>
-    <td>
-      <img width="500px" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hulkiedo&theme=github_dark" />
-    </td>
-  </tr>
-  <table="left">
-  <tr>
-    <td>
-      <a href="https://github.com/hulkiedo17/led">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=led&theme=github_dark" />
-      </a>
-      <a href="https://github.com/hulkiedo17/libconf">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=libconf&theme=github_dark" />
-      </a>
-      <a href="https://github.com/hulkiedo17/counter">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=counter&theme=github_dark" />
-      </a>
-      <a href="https://github.com/hulkiedo17/relf">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=relf&theme=github_dark" />
-      </a>
-      <!--
-      <a href="https://github.com/hulkiedo17/logc">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=logc&theme=github_dark" />
-      </a>
-      <a href="https://github.com/hulkiedo17/editor">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=editor&theme=github_dark" />
-      </a>
-      -->
-    </td>
-  </tr>
-</p>
+[![Hulkiedo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hulkiedo&theme=github_dark)](https://wakatime.com/@Hulkiedo)
+
+### My projects
+
+<a href="https://github.com/hulkiedo17/led">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=led&theme=github_dark" />
+</a>
+<a href="https://github.com/hulkiedo17/libconf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=libconf&theme=github_dark" />
+</a>
+<a href="https://github.com/hulkiedo17/counter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=counter&theme=github_dark" />
+</a>
+<a href="https://github.com/hulkiedo17/relf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=relf&theme=github_dark" />
+</a>
+<!--
+<a href="https://github.com/hulkiedo17/logc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=logc&theme=github_dark" />
+</a>
+<a href="https://github.com/hulkiedo17/editor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=editor&theme=github_dark" />
+</a>
+-->
