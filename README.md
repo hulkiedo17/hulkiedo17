@@ -1,16 +1,23 @@
-# Hi, I'm a Hulkiedo:
+# Hi, I'm a Hulkiedo
 My name is Artem, i'm a C Developer (System programmer).
 
-In future, i'm planning to learn linux kernel internals, and then linux kernel development.
+In future, i'm planning to learn linux kernel internals and rust language.
 
 <p>
   <table="right">
   <tr>
-      <td><img width="495px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulkiedo17&hide=html&layout=compact&hide_border=true&border_radius=0&theme=dark&icon_color=5194f0&bg_color=0d1117" />
+      <td>
+      <img width="495px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulkiedo17&hide=html&layout=compact&hide_border=true&border_radius=0&theme=dark&icon_color=5194f0&bg_color=0d1117" />
       <img width="485px" align="right" src="https://github-readme-stats.vercel.app/api?username=hulkiedo17&hide_border=true&border_radius=0&count_private=false&layout=compact&hide_title=false&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" />
       </td>
   </tr>
 </p>
+
+### About me
+- I'm a 19 y/o guy from Russia, living in Vladivostok
+- I'm mainly focusing on system programming (low-level)
+- Btw i use Arch :)
+- Current work project: relf (also sometimes i'm refactoring other projects)
 
 ### Links
 
@@ -21,33 +28,38 @@ In future, i'm planning to learn linux kernel internals, and then linux kernel d
 - [second github](https://github.com/hulkiedo19)
 - [gitflic](https://gitflic.ru/user/molenay)
 
-### About me
-- I'm a 19 y/o guy from Russia, living in Vladivostok.
-- I'm mainly focusing on system programming (unix-like systems and so on)
-- Btw i use Arch :)
-- Current work project: all old projects (refactoring in progress)
+### My projects and stats
 
-### My projects
-
-<a href="https://github.com/hulkiedo17/led">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=led&theme=github_dark" />
-</a>
-<a href="https://github.com/hulkiedo17/libconf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=libconf&theme=github_dark" />
-</a>
-<a href="https://github.com/hulkiedo17/counter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=counter&theme=github_dark" />
-</a>
-<a href="https://github.com/hulkiedo17/logc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=logc&theme=github_dark" />
-</a>
-<a href="https://github.com/hulkiedo17/editor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=editor&theme=github_dark" />
-</a>
-<a href="https://github.com/hulkiedo17/relf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=relf&theme=github_dark" />
-</a>
-
-### My active
-
-[![Hulkiedo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hulkiedo&theme=github_dark)](https://wakatime.com/@Hulkiedo)
+<p>
+  <table="right">
+  <tr>
+    <td>
+      <img width="500px" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hulkiedo&theme=github_dark" />
+    </td>
+  </tr>
+  <table="left">
+  <tr>
+    <td>
+      <a href="https://github.com/hulkiedo17/led">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=led&theme=github_dark" />
+      </a>
+      <a href="https://github.com/hulkiedo17/libconf">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=libconf&theme=github_dark" />
+      </a>
+      <a href="https://github.com/hulkiedo17/counter">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=counter&theme=github_dark" />
+      </a>
+      <a href="https://github.com/hulkiedo17/relf">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=relf&theme=github_dark" />
+      </a>
+      <!--
+      <a href="https://github.com/hulkiedo17/logc">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=logc&theme=github_dark" />
+      </a>
+      <a href="https://github.com/hulkiedo17/editor">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulkiedo17&repo=editor&theme=github_dark" />
+      </a>
+      -->
+    </td>
+  </tr>
+</p>
