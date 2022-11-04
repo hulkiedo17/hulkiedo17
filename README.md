@@ -1,15 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=160&section=header&text=Artem%20Mironov&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<p>
-  <table="right">
-  <tr>
-      <td>
-      <img width="495px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulkiedo17&hide=html&layout=compact&hide_border=true&border_radius=0&theme=dark&icon_color=5194f0&bg_color=0d1117" />
-      <img width="485px" align="right" src="https://github-readme-stats.vercel.app/api?username=hulkiedo17&hide_border=true&border_radius=0&count_private=false&layout=compact&hide_title=false&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117&include_all_commits=true" />
-      </td>
-  </tr>
-</p>
+<div align="center">
+  <img height="170" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulkiedo17&hide=html&layout=compact&hide_border=true&border_radius=0&theme=dark&icon_color=5194f0&bg_color=0d1117" />
+  <img height="170" width="33%" src="https://github-readme-stats.vercel.app/api?username=hulkiedo17&hide_border=true&border_radius=0&count_private=false&layout=compact&hide_title=false&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117&include_all_commits=true" />
+  <img height="170" width="33%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hulkiedo&theme=github_dark&layout=compact&hide_border=true" />
+</div>
 
+<!--
+<div>
+  <img align="top" src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117"/>
+</div>
+-->
+
+<!-- 
 ## About me
 - I'm a 19 y/o guy from Russia, living in Vladivostok
 - I'm mainly focusing on system programming (low-level)
@@ -17,7 +20,6 @@
 - Current work project: relf (also sometimes i'm refactoring other projects)
 
 ## Links
-
 - [asciinema](https://asciinema.org/~Hulkiedo)
 - [reddit](https://www.reddit.com/user/Zmishenko)
 - [habr](https://habr.com/ru/users/artem_mironov/)
@@ -33,3 +35,4 @@
     </td>
   </tr>
 </p>
+-->
