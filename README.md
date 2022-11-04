@@ -1,6 +1,4 @@
-<!-- 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=160&section=header&text=Artem%20Mironov&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
--->
 
 <p>
   <table="right">
@@ -12,13 +10,13 @@
   </tr>
 </p>
 
-### About me
+## About me
 - I'm a 19 y/o guy from Russia, living in Vladivostok
 - I'm mainly focusing on system programming (low-level)
 - Btw i use Arch :)
 - Current work project: relf (also sometimes i'm refactoring other projects)
 
-### Links
+## Links
 
 - [asciinema](https://asciinema.org/~Hulkiedo)
 - [reddit](https://www.reddit.com/user/Zmishenko)
