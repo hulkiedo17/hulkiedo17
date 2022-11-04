@@ -30,4 +30,4 @@ In future, i'm planning to learn linux kernel internals and rust language.
 
 ### My Wakatime stats
 
-[![Hulkiedo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hulkiedo&theme=github_dark)](https://wakatime.com/@Hulkiedo)
+[![Hulkiedo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hulkiedo&theme=github_dark&layout=compact)](https://wakatime.com/@Hulkiedo)
